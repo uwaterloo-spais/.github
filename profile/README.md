@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://uwspais.ca">Website</a> ·
   <a href="https://discord.gg/Pk7Rc78k5D">Discord</a> ·
   <a href="https://www.instagram.com/uwspais/">Instagram</a> ·
   <a href="https://www.linkedin.com/company/sustainable-physical-ai-society/">LinkedIn</a> ·
